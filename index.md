@@ -14,9 +14,9 @@ Sample text
 For this project, I explored what a good analytics PowerPoint presentation should entail. It talks about main talking points, how to tie data to the business value, and much more. 
 
 ---
-#### [External Link Project](https://www.linkedin.com/pulse/delivering-doordash-marketing-insights-ehlert-mackie-mba-msba/)
+#### [Delivering DoorDash Marketing Insights](https://www.linkedin.com/pulse/delivering-doordash-marketing-insights-ehlert-mackie-mba-msba/)
 [<img src="images/DoorDash with Text.png?raw=true"/>](https://www.linkedin.com/pulse/delivering-doordash-marketing-insights-ehlert-mackie-mba-msba/)
-My final write up for Avery Smith's 21 Days To Data project covering New York City crime data. 
+In this project, I used various techniques in Excel to analyze DoorDash marketing data for a recent campaign. I provided insights on the campaign's performance and recommendations for future marketing campaigns.
 
 
 ---
