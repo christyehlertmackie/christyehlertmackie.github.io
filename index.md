@@ -2,7 +2,7 @@
 
 ---
 
-### Check out My Projects:
+## Check out My Projects:
 
 #### [Delivering DoorDash Marketing Insights](https://www.linkedin.com/pulse/delivering-doordash-marketing-insights-ehlert-mackie-mba-msba/)
 [<img src="images/DoorDash with Text.png?raw=true"/>](https://www.linkedin.com/pulse/delivering-doordash-marketing-insights-ehlert-mackie-mba-msba/)
