@@ -1,8 +1,8 @@
-# Welcome to My Portfolio
+# Welcome to My Portfolio!
 
 ---
 
-### Check Out My Projects!
+### Check Out My Projects:
 
 #### [Internal Blog Post Project](/bank)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
