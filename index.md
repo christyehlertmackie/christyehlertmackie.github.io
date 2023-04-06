@@ -12,7 +12,7 @@ For this project, I used various techniques in Excel to analyze DoorDash marketi
 ---
 #### [How Are Massachusetts' Schools Performing?](https://www.linkedin.com/pulse/how-massachusetts-schools-performing-christy-ehlert-mackie-mba-msba/)
 [<img src="images/Massachusetts Education Overview.png?raw=true"/>](https://www.linkedin.com/pulse/how-massachusetts-schools-performing-christy-ehlert-mackie-mba-msba/)
-In this project from Data Career Jumpstart's Data Analytics Accelerator program, I used Tableau to analyze education data for the State of Massachusetts. The questions answered were:
+In this project from Data Career Jumpstart's Data Analytics Accelerator program, I used Tableau to analyze and visualize education data for the State of Massachusetts. The questions answered were:
 How does class size affect college attendance rates?
 Which schools have the lowest graduation rates?
 What are the top school districts in the state for 4th grade math scores?
