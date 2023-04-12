@@ -18,8 +18,8 @@ Which schools have the lowest graduation rates?
 What are the top school districts in the state for 4th grade math scores?
 
 ---
-#### [How Are Massachusetts' Schools Performing?](https://www.linkedin.com/pulse/building-better-economic-future-analysis-world-bank-christy/)
-[<img src="images/Massachusetts Education Overview.png?raw=true"/>](https://www.linkedin.com/pulse/building-better-economic-future-analysis-world-bank-christy/)
+#### [Building a Better Economic Future](https://www.linkedin.com/pulse/building-better-economic-future-analysis-world-bank-christy/)
+[<img src="images/Building a Better Economic Future An Analysis of World Bank Credits & Grants.png?raw=true"/>](https://www.linkedin.com/pulse/building-better-economic-future-analysis-world-bank-christy/)
 I used Tableau to analyze and visualize education data for the State of Massachusetts. The questions answered were:
 How does class size affect college attendance rates?
 Which schools have the lowest graduation rates?
