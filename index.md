@@ -23,8 +23,8 @@ I used SQL to analyze a dataset of transactions from World Bank and provide insi
 
 ---
 #### [Analysis of Hospital Patient Data Using SQL](https://www.linkedin.com/pulse/analysis-hospital-patient-data-using-sql-ehlert-mackie-mba-msba/)
-[<img src="images/Building a Better Economic Future An Analysis of World Bank Credits & Grants.png?raw=true"/>](https://www.linkedin.com/pulse/analysis-hospital-patient-data-using-sql-ehlert-mackie-mba-msba/)
-I used SQL to analyze a dataset of transactions from World Bank and provide insights. World Bank gives credits and grants to developing countries with the goal of reducing poverty and building prosperity.
+[<img src="images/Analysis of Hospital Patient Data.png?raw=true"/>](https://www.linkedin.com/pulse/analysis-hospital-patient-data-using-sql-ehlert-mackie-mba-msba/)
+I used intermediate SQL to analyze hospital patient data to answer various questions. Functions used include RPAD, HAVING, JOIN, CASE WHEN, UNION, CTEs, subqueries, and CONCAT.
 
 
 
