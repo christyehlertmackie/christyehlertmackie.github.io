@@ -28,7 +28,7 @@ I used intermediate SQL to analyze hospital patient data to answer various quest
 
 ---
 #### [Shooting for Insights](https://www.linkedin.com/pulse/shooting-insights-nba-player-statistics-analysis-christy/)
-[<img src="images/Massachusetts Education Overview.png?raw=true"/>](https://www.linkedin.com/pulse/how-massachusetts-schools-performing-christy-ehlert-mackie-mba-msba/)
+[<img src="images/Shooting for Insights NBA Player Statistics Analysis for the 2021-22 Season.png?raw=true"/>](https://www.linkedin.com/pulse/how-massachusetts-schools-performing-christy-ehlert-mackie-mba-msba/)
 I used Tableau to analyze and visualize education data for the State of Massachusetts. The questions answered were:
 How does class size affect college attendance rates?
 Which schools have the lowest graduation rates?
