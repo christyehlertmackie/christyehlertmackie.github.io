@@ -29,8 +29,9 @@ I used intermediate SQL to analyze hospital patient data to answer various quest
 ---
 #### [Shooting for Insights](https://www.linkedin.com/pulse/shooting-insights-nba-player-statistics-analysis-christy/)
 [<img src="images/Shooting for Insights NBA Player Statistics Analysis for the 2021-22 Season.png?raw=true"/>](https://www.linkedin.com/pulse/how-massachusetts-schools-performing-christy-ehlert-mackie-mba-msba/)
-I used Tableau to analyze and visualize education data for the State of Massachusetts. The questions answered were:
-How does class size affect college attendance rates?
-Which schools have the lowest graduation rates?
-What are the top school districts in the state for 4th grade math scores?
+I used Tableau to analyze and visualize NBA player statistics for the 2021-22 season for the league overall and for the Minnesota Timberwolves. The questions answered were:
+What position is most efficent at shooting 3-pointers for each team?
+How did individual players perform last season in terms of points, assists, and total rebounds?
+What were the total points for each team and each player on the team?
+What players had the most assists in every position?
 
