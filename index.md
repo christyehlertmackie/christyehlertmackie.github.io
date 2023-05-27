@@ -43,5 +43,5 @@ I used the Python packages Pandas, Matplotlib, and Seaborn in a DeepNote noteboo
 ---
 #### [IBM HR Analytics](https://www.linkedin.com/pulse/ibm-hr-analytics-understanding-employee-data-christy/)
 [<img src="images/IBM HR Analytics Understanding Employee Data.png?raw=true"/>](https://www.linkedin.com/pulse/ibm-hr-analytics-understanding-employee-data-christy/)
-I used R to analyze HR data using statistical techniques such as correlation, hypothesis testing, and linear regression.
+I used R to analyze Human Resources data using statistical techniques such as correlation, hypothesis testing, and linear regression.
 
