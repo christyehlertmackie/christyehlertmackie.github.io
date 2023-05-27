@@ -39,3 +39,8 @@ What players had the most assists in every position?
 #### [Iron Mining Python Data Analysis](https://www.linkedin.com/pulse/iron-mining-python-data-analysis-christy-ehlert-mackie-mba-msba/)
 [<img src="images/Iron Mining Python Data Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/iron-mining-python-data-analysis-christy-ehlert-mackie-mba-msba/)
 I used the Python packages Pandas, Matplotlib, and Seaborn in a DeepNote notebook to clean, manipulate, analyze, and visualize data.
+
+---
+#### [IBM HR Analytics](https://www.linkedin.com/pulse/ibm-hr-analytics-understanding-employee-data-christy/)
+[<img src="images/Iron Mining Python Data Analysis.png?raw=true"/>](https://www.linkedin.com/pulse/ibm-hr-analytics-understanding-employee-data-christy/)
+I used the Python packages Pandas, Matplotlib, and Seaborn in a DeepNote notebook to clean, manipulate, analyze, and visualize data.
