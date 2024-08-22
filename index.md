@@ -4,6 +4,11 @@
 
 ## Check out My Projects:
 
+#### [Beyond the Numbers: Discovering Insights in Animal Shelter Data](https://www.linkedin.com/pulse/XXXX)
+[<img src="images/DoorDash with Text.png?raw=true"/>](https://www.linkedin.com/pulse/XXXXX)
+I analyzed XXXXX
+
+---
 #### [Delivering DoorDash Marketing Insights](https://www.linkedin.com/pulse/delivering-doordash-marketing-insights-ehlert-mackie-mba-msba/)
 [<img src="images/DoorDash with Text.png?raw=true"/>](https://www.linkedin.com/pulse/delivering-doordash-marketing-insights-ehlert-mackie-mba-msba/)
 I used various techniques in Excel to analyze DoorDash marketing data for a recent campaign. I provided insights on the campaign's performance and recommendations for future marketing campaigns.
