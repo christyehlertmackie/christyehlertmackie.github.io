@@ -5,8 +5,8 @@
 ## Check out My Projects:
 
 #### [Beyond the Numbers: Discovering Insights in Animal Shelter Data](https://www.linkedin.com/pulse/XXXX)
-[<img src="images/DoorDash with Text.png?raw=true"/>](https://www.linkedin.com/pulse/XXXXX)
-I analyzed XXXXX
+[<img src="images/Beyond the Numbers Discovering Insights in Animal Shelter Data.png?raw=true"/>](https://www.linkedin.com/pulse/XXXXX)
+I used Excel and Tableau to analyze data for Louisville Metro Animal Services. I provided insights and recommendations to help them plan and use resources as well as identify opportunities to better serve the geographic area.
 
 ---
 #### [Delivering DoorDash Marketing Insights](https://www.linkedin.com/pulse/delivering-doordash-marketing-insights-ehlert-mackie-mba-msba/)
