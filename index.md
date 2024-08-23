@@ -4,8 +4,8 @@
 
 ## Check out My Projects:
 
-#### [Beyond the Numbers: Discovering Insights in Animal Shelter Data](https://www.linkedin.com/pulse/XXXX)
-[<img src="images/Beyond the Numbers Discovering Insights in Animal Shelter Data.png?raw=true"/>](https://www.linkedin.com/pulse/XXXXX)
+#### [Beyond the Numbers: Discovering Insights in Animal Shelter Data](https://www.linkedin.com/pulse/beyond-numbers-discovering-insights-animal-shelter-christy-wi8dc/)
+[<img src="images/Beyond the Numbers Discovering Insights in Animal Shelter Data.png?raw=true"/>](https://www.linkedin.com/pulse/beyond-numbers-discovering-insights-animal-shelter-christy-wi8dc/)
 I used Excel and Tableau to analyze data for Louisville Metro Animal Services. I provided insights and recommendations to help LMAS plan and use resources as well as identify opportunities to better serve the geographic area.
 
 ---
