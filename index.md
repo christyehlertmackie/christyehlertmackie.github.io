@@ -1,6 +1,8 @@
 # Welcome to My Portfolio!
 
 ---
+## My portfolio has moved to a new site:
+#### [Check out my new portfolio here!](https://christyehlertmackie.carrd.co/)
 
 ## Check out My Projects:
 
